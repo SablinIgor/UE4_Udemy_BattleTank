@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"/Users/admin/UE4_Udemy_BattleTank/BattleTank/.vscode": true,
+		"/Users/admin/UE4_Udemy_BattleTank/BattleTank/Content": true,
+		"/Users/admin/UE4_Udemy_BattleTank/BattleTank/Intermediate": true
+	}
+}
